@@ -17,8 +17,8 @@ title: Abdulaziz Shamsah
 email: ashamsah3@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Abdulaziz Shamsah a Mechanical Engineering PhD student @ Georgia Tech
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aziizsh
 # github_username:  jekyll
 
